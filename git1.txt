@@ -5,7 +5,7 @@ hello git,hello wangbin!
 hello git,hello wangbin!
 hello git,hello wangbin!
 hello git,hello wangbin!
-hello git,hello wangbin!
+hello git,hello wangbin! hot_fix
 hello git,hello wangbin!
 hello git,hello wangbin!
 hello git,hello wangbin!
