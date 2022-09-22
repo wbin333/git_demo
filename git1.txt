@@ -23,3 +23,4 @@ hello git,hello wangbin!
 hello git,hello wangbin! 2222
 hello git,hello wangbin!
 33333333333333333333333333333
+测试ssh免密登录
